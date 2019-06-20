@@ -1,0 +1,98 @@
+.header {
+    border: 1px solid;
+    margin: 10px 40px;
+    text-align: center;
+    background-color: rgb(219, 219, 219);
+}
+
+.nav {
+    border: 1px solid;
+    margin: 10px 40px;
+    text-align: center;
+    background-color: rgb(219, 219, 219);
+}
+
+.section {
+    border: 1px solid;
+    text-align: center;
+    float: left;
+    position: absolute;
+    width: 50%;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: rgb(219, 219, 219);
+
+}
+
+.article {
+    border: 1px solid;
+    text-align: center;
+    clear: both;
+    width: 45%;
+    height: 100px;
+    position: absolute;
+    top: 230px;
+    left: 70px; 
+    background-color: grey;
+    color: rgb(219, 219, 219);
+}
+
+.article p{
+    border: 1px solid;
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+    width: 90%;
+    left: 20px;
+    background-color: rgb(219, 219, 219);
+    color: grey;
+
+}
+
+.article h2{
+    border: 1px solid;
+    text-align: center;
+    position: relative;
+    bottom: 25px;
+    width: 90%;
+    left: 20px;
+    background-color: rgb(219, 219, 219);
+    color: grey;
+
+}
+
+.article h6{
+
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+
+}
+
+.aside {
+    border: 1px solid;
+    text-align: center;
+    float: right;
+    width: 40%;
+    height: 200px;
+    margin-right: 40px;
+    margin-top: 10px;
+    clear: both;
+    background-color: rgb(219, 219, 219);
+}
+
+.footer {
+    border: 1px solid;
+    margin-top: 240px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+    clear: both;
+    background-color: rgb(219, 219, 219);
+}
+
+body {
+    background-color: grey;
+    color: rgb(117, 116, 116)
+}
